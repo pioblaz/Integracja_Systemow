@@ -37,6 +37,12 @@ public class Main {
 
         BufferedReader br = new BufferedReader(fr);
         try {
+            for (int i = 0; i < 635; i++) {
+                System.out.print("-");
+            }
+
+            System.out.print("\n");
+
             for (int i = 0; i < list.size(); i++) {
                 if (i == 0)
                     System.out.print(list.get(i) + "\t" + "|");
