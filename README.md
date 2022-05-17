@@ -1,2 +1,2 @@
 # Integracja_Systemow
-Aplikacja okienkowa JAVA mająca możliwość pobrania oraz wyeksportowania danych w pliku txt.
+Aplikacja konsolowa w JAVIE wyświetlająca dane z pliku txt.
